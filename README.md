@@ -1,1 +1,1 @@
-# COP2360
+Github repository for COP2360 at PBSC.
