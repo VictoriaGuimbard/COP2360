@@ -14,6 +14,7 @@ public class Octopus
     public class Tentacle
     {
         public int Length { get; set; }
+        
         public void DisplayLength()
         {
             Console.WriteLine($"Tentacle length is {Length} cm.");
