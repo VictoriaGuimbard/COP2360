@@ -35,9 +35,5 @@ class Program
         {
             Console.WriteLine("Error: Number too large or too small for an integer.");
         }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"Unexpected error: [Error message]");
-        }
     }
 }
